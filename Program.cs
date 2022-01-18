@@ -5,7 +5,7 @@ namespace Delegate
     
     internal class Program
     {
-       
+       //define delegate
         public delegate int Additionn(int x,int y);
 
         static void Main(string[] args)
