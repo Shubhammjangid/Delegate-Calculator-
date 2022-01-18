@@ -1,0 +1,15 @@
+C:\Users\harsh jangid\Desktop\.Net\Delegate\bin\Debug\net6.0\Delegate.exe
+C:\Users\harsh jangid\Desktop\.Net\Delegate\bin\Debug\net6.0\Delegate.deps.json
+C:\Users\harsh jangid\Desktop\.Net\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+C:\Users\harsh jangid\Desktop\.Net\Delegate\bin\Debug\net6.0\Delegate.dll
+C:\Users\harsh jangid\Desktop\.Net\Delegate\bin\Debug\net6.0\ref\Delegate.dll
+C:\Users\harsh jangid\Desktop\.Net\Delegate\bin\Debug\net6.0\Delegate.pdb
+C:\Users\harsh jangid\Desktop\.Net\Delegate\obj\Debug\net6.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\.Net\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\.Net\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\.Net\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\.Net\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\.Net\Delegate\obj\Debug\net6.0\Delegate.dll
+C:\Users\harsh jangid\Desktop\.Net\Delegate\obj\Debug\net6.0\ref\Delegate.dll
+C:\Users\harsh jangid\Desktop\.Net\Delegate\obj\Debug\net6.0\Delegate.pdb
+C:\Users\harsh jangid\Desktop\.Net\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
