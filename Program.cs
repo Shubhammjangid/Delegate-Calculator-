@@ -26,12 +26,13 @@ namespace Delegate
             Additionn mul = new Additionn(dege.Multiplication);
 
             bool Value = false;
-            while(!Value){
-
+            while(!Value)
+            
+            {
                 opt.Optionss();
-
                 int Choice = Convert.ToInt32(Console.ReadLine());
 
+                #region Switch
                 switch(Choice)
                 
                 {
@@ -70,7 +71,12 @@ namespace Delegate
                             Value=false;
                         }
                         break;
+                    
+                    case 6:
+                        Console.WriteLine("Nothing enter number properly from option given above");
+                        break;
                 }
+                 #endregion
             }
         } 
     }
